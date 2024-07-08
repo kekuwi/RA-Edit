@@ -139,6 +139,27 @@
         "Url": "https://booth.pm/ja/search/VRoid%E7%94%A8%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3?max_price=0",
         "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fasset.booth.pm%2Fassets%2Fog_image-0c48d775edd33430ac54dd64cfc63ac699ca30e50873bfde4d77a971ee66ffa0.png&f=1&nofb=1&ipt=2fbcade7b73063c68d17a9f811b3be9eb95ceae9fb6bdda581045a852b41bbb8&ipo=images",
         "Tags": "Making"
+    },
+    {
+        "Title": "Vroid Studio",
+        "Description": "Free 3D Avatars Maker",
+        "Url": "https://vroid.com/en/studio",
+        "Image": "https://lookimg.com/images/2024/07/08/Ql2yNU.png",
+        "Tags": "Making"
+    },
+    {
+        "Title": "VRM to VRChat converter",
+        "Description": "Vroid model to VRChat Converter",
+        "Url": "https://booth.pm/ja/items/1025226",
+        "Image": "https://booth.pximg.net/ba01b0da-9d0b-4dd8-a9ad-3f35270de1c8/i/1025226/c639ada2-329a-4f94-9545-9d3eb2ace96e.png",
+        "Tags": "Making"
+    },
+    {
+        "Title": "Veardresser ",
+        "Description": "combines VRoid clothing",
+        "Url": "https://booth.pm/ja/items/2667352",
+        "Image": "https://lookimg.com/images/2024/07/08/QlAPPn.png",
+        "Tags": "Making"
     }
 ]
 }
