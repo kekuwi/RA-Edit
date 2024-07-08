@@ -97,6 +97,48 @@
         "Url": "https://inochi2d.com/",
         "Image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.amXLtMbmt25SzAM0QAme4wAAAA%26pid%3DApi&f=1&ipt=3362b9fe53d63b850559cd994bfeb3277403278335bd317936c80ac8d30c60fe&ipo=images",
         "Tags": "Making"
+    },
+    {
+        "Title": "ActionHand 2D",
+        "Description": "Hand/keyboard-tracking",
+        "Url": "https://hanazuma29ri.booth.pm/items/1830196",
+        "Image": "https://lookimg.com/images/2024/07/08/Ql2rMe.png",
+        "Tags": "Hand/keyboard-tracking"
+    },
+    {
+        "Title": "Spud Controller",
+        "Description": "Hand/controler-tracking",
+        "Url": "https://sadwhale-studios.itch.io/spud-controller",
+        "Image": "https://img.itch.zone/aW1hZ2UvODEyMjAxLzU2ODc2MTEuZ2lm/347x500/QfgwGg.gif",
+        "Tags": "Hand/keyboard-tracking"
+    },
+    {
+        "Title": "Spud Keyboard and Mouse",
+        "Description": "Hand/keyboard-tracking",
+        "Url": "https://sadwhale-studios.itch.io/spud-keyboard-and-mouse",
+        "Image": "https://img.itch.zone/aW1hZ2UvMTA5MjA4Ni82MjkwMTg2LmdpZg==/347x500/QeGwjd.gif",
+        "Tags": "Hand/keyboard-tracking"
+    },
+    {
+        "Title": "Spud Tablet & Arm",
+        "Description": "Hand/keyboard-tracking",
+        "Url": "https://sadwhale-studios.itch.io/spud-tablet",
+        "Image": "https://img.itch.zone/aW1hZ2UvOTg5NDY4LzU3OTgzOTUuZ2lm/347x500/pLvJJP.gif",
+        "Tags": "Hand/keyboard-tracking"
+    },
+    {
+        "Title": "T.I.T.S",
+        "Description": "Throwing system",
+        "Url": "https://remasuri3.itch.io/tits",
+        "Image": "https://img.itch.zone/aW1hZ2UvMTMwMTQzMi83NTc3OTcyLnBuZw==/original/HirFSS.png",
+        "Tags": "Throwing system"
+    },
+    {
+        "Title": "KBonk",
+        "Description": "Free Throwing system",
+        "Url": "https://typeou.itch.io/karasubonk",
+        "Image": "https://img.itch.zone/aW1hZ2UvMTM4NzQwNi8xMTAyNDU0MC5wbmc=/original/H7Nc67.png",
+        "Tags": "Throwing system"
     }
 ]
 }
