@@ -160,6 +160,13 @@
         "Url": "https://booth.pm/ja/items/2667352",
         "Image": "https://lookimg.com/images/2024/07/08/QlAPPn.png",
         "Tags": "Making"
+    },
+    {
+        "Title": "SystemAnimatorOnline",
+        "Description": "AI Powered 3D Full Body Tracker",
+        "Url": "https://github.com/ButzYung/SystemAnimatorOnline",
+        "Image": "https://github.com/ButzYung/SystemAnimatorOnline/raw/master/images/XR_Animator_thumbnail01.png",
+        "Tags": "Tracking"
     }
 ]
 }
