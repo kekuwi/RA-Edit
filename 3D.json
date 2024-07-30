@@ -167,6 +167,13 @@
         "Url": "https://github.com/ButzYung/SystemAnimatorOnline",
         "Image": "https://github.com/ButzYung/SystemAnimatorOnline/raw/master/images/XR_Animator_thumbnail01.png",
         "Tags": "Tracking"
+    },
+    {
+        "Title": "Webcam Motion Capture",
+        "Description": "Freemium 3D Webcam Full Body Tracker",
+        "Url": "https://webcammotioncapture.info/index.php",
+        "Image": "https://lookimg.com/images/2024/07/30/QtZMkj.png",
+        "Tags": "Tracking"
     }
 ]
 }
