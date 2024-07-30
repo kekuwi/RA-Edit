@@ -146,6 +146,13 @@
         "Url": "https://ar14.itch.io/mannequin",
         "Image": "https://pbs.twimg.com/profile_images/1479658808238510087/71nyXSsQ_400x400.jpg",
         "Tags": "Making"
+    },
+    {
+        "Title": "Puppetsring",
+        "Description": "Tracker for Inochi2D models",
+        "Url": "https://ar14.itch.io/puppetstring",
+        "Image": "https://img.itch.zone/aW1nLzEzNDg1NTIwLnBuZw==/347x500/o3TBHH.png",
+        "Tags": "Tracking"
     }
 ]
 }
