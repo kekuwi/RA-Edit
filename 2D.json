@@ -153,6 +153,13 @@
         "Url": "https://ar14.itch.io/puppetstring",
         "Image": "https://img.itch.zone/aW1nLzEzNDg1NTIwLnBuZw==/347x500/o3TBHH.png",
         "Tags": "Tracking"
+    },
+    {
+        "Title": "veadotube",
+        "Description": "Lightweight, easy-to-use pngtuber app",
+        "Url": "https://veado.tube/",
+        "Image": "https://img.itch.zone/aW1nLzE1NjU2MTcxLnBuZw==/original/SysRrG.png",
+        "Tags": "PNG Tubing"
     }
 ]
 }
