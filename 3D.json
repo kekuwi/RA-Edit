@@ -181,6 +181,27 @@
         "Url": "https://quantumvt.itch.io/craft2vrm",
         "Image": "https://img.itch.zone/aW1nLzExOTYzOTQ5LnBuZw==/original/LhFhfa.png",
         "Tags": "Making"
+    },
+    {
+        "Title": "vnyan",
+        "Description": "Actively developed 3D tracker with many integration and node based prgraming for actions and triggers.",
+        "Url": "https://suvidriel.itch.io/vnyan",
+        "Image": "https://img.itch.zone/aW1nLzEwNDc0MzI0LnBuZw==/original/JCxGKa.png",
+        "Tags": "Tracking"
+    },
+    {
+        "Title": "mtion studio",
+        "Description": "3D tracker with abilty to build the 3D world around you.",
+        "Url": "https://store.steampowered.com/app/1920720/mtion_studio/",
+        "Image": "https://lookimg.com/images/2024/08/06/QtGObJ.png",
+        "Tags": "Tracking"
+    },
+    {
+        "Title": "Warudo",
+        "Description": "flexible & personalized 3D VTubing software",
+        "Url": "https://store.steampowered.com/app/2079120/Warudo/",
+        "Image": "https://lookimg.com/images/2024/08/06/QtGk9D.png",
+        "Tags": "Tracking"
     }
 ]
 }
