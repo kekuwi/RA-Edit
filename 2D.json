@@ -195,6 +195,13 @@
         "Url": "https://rahisaurus.itch.io/rahituber",
         "Image": "https://img.itch.zone/aW1hZ2UvMjIwMzYyNy8xNjk2NjM0OS5naWY=/original/HEqGfB.gif",
         "Tags": "PNG Tubing"
+    },
+    {
+        "Title": "VTS Fullbody Tracking ",
+        "Description": "Live 2D Plugin for Full Body Tracking",
+        "Url": "https://github.com/jellydreams/VTS-Fullbody-Tracking",
+        "Image": "https://avatars.githubusercontent.com/u/151779294?v=4",
+        "Tags": "Add-ons"
     }
 ]
 }
