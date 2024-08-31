@@ -162,27 +162,6 @@
         "Tags": "Making"
     },
     {
-        "Title": "XR Animator",
-        "Description": "AI Powered 3D Full Body Tracker",
-        "Url": "https://github.com/ButzYung/SystemAnimatorOnline",
-        "Image": "https://github.com/ButzYung/SystemAnimatorOnline/raw/master/images/XR_Animator_thumbnail01.png",
-        "Tags": "Tracking"
-    },
-    {
-        "Title": "Webcam Motion Capture",
-        "Description": "AI powevered Webcam Motion Capture",
-        "Url": "https://webcammotioncapture.info/index.php",
-        "Image": "https://lookimg.com/images/2024/07/30/QtZMkj.png",
-        "Tags": "Tracking"
-    },
-    {
-        "Title": "CRAFT2VRM",
-        "Description": "Turn your minecraft skin into a VRM model",
-        "Url": "https://quantumvt.itch.io/craft2vrm",
-        "Image": "https://img.itch.zone/aW1nLzExOTYzOTQ5LnBuZw==/original/LhFhfa.png",
-        "Tags": "Making"
-    },
-    {
         "Title": "vnyan",
         "Description": "Actively developed 3D tracker with many integration and node based prgraming for actions and triggers.",
         "Url": "https://suvidriel.itch.io/vnyan",
@@ -201,6 +180,13 @@
         "Description": "flexible & personalized 3D VTubing software",
         "Url": "https://store.steampowered.com/app/2079120/Warudo/",
         "Image": "https://lookimg.com/images/2024/08/06/QtGk9D.png",
+        "Tags": "Tracking"
+    },
+    {
+        "Title": "Live3D",
+        "Description": "VTuber Software Suite",
+        "Url": "https://live3d.io/",
+        "Image": "https://lookimg.com/images/2024/08/30/QCCORt.jpeg",
         "Tags": "Tracking"
     }
 ]
