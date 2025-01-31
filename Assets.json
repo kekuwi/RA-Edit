@@ -1,6 +1,42 @@
 {
   "data": [
     {
+        "Title": "Ikea shark",
+        "Description": "our beloved BLÅHAJ :3",
+        "Creator": "Lithia Vey",
+        "Creator-Link": "https://twitter.com/LithiaVeyTuber",
+        "Url": "https://drive.google.com/drive/folders/1H3ec_oHjaEJ-HwD_vb2-lohi29zMtcD6",
+        "Image": "https://i.ibb.co.com/wf8vjPM/IKEA-Shark-light.png",
+        "Tags": "Props"
+    },
+    {
+        "Title": "Dragon plushies",
+        "Description": "A lot variation of cute Dragon plushies",
+        "Creator": "Hanako",
+        "Creator-Link": "https://twitter.com/ichiigoma",
+        "Url": "https://drive.google.com/drive/folders/15QRN58-3MGLu27qLal3t1boHEQ5W_C9r",
+        "Image": "https://i.ibb.co.com/VYFH0HXR/Dragon-Plushie-Assets.png",
+        "Tags": "Props"
+    },
+    {
+        "Title": "Korpo plush toy",
+        "Description": "Final Fantasy XIV Korpo plushies",
+        "Creator": "Ace",
+        "Creator-Link": "https://twitter.com/The_Fallen_Ace",
+        "Url": "https://drive.google.com/drive/folders/1nphgEvrX1F4IpNrv22D8_NO88T_3fget",
+        "Image": "https://i.ibb.co.com/QFNpPTPy/All.png",
+        "Tags": "Props"
+    },
+    {
+        "Title": "Scoring Paddle",
+        "Description": "Live2D Scoring Paddle asset",
+        "Creator": "ReddRobin",
+        "Creator-Link": "https://reddrobin.carrd.co/",
+        "Url": "https://ko-fi.com/s/644aa3f2a4",
+        "Image": "https://storage.ko-fi.com/cdn/useruploads/display/7e5ff40a-9376-4a96-a9ad-b9067200f7d1_scoringpdle-icon-reddrobin_art.png",
+        "Tags": "Live2D"
+    },
+    {
         "Title": "Guitar",
         "Description": "by CatBoyMech",
         "Creator": "CatBoyMech",
